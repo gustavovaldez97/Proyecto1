@@ -228,21 +228,25 @@ void keyPressed(){
     jugador2=char1;
     pantalla=2;
     println("jugador2 seleccionado");
+    println("turno del jugador1");
     break;
     case'7':
     jugador2=char2;
     pantalla=2;
     println("jugador2 seleccionado");
+    println("turno del jugador1");
     break;
     case '8':
     jugador2=char3;
     pantalla=2;
     println("jugador2 seleccionado");
+    println("turno del jugador1");
     break;
     case '9':
     jugador2=char4;
     pantalla=2;
     println("jugador2 seleccionado");
+    println("turno del jugador1");
     case '0':
     jugador2=char5;
     pantalla=2;  
